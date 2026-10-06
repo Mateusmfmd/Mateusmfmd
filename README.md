@@ -1,48 +1,36 @@
 # Mateus Florido Pena
 
-Desenvolvedor de Sistemas com formação técnica e experiência prática em projetos web, mobile, APIs, bancos de dados e automação.
+**Desenvolvedor de Sistemas** com projetos em web, mobile, APIs, automação, dados e tecnologia assistiva.
 
-## Sobre mim
-
-- Desenvolvimento de aplicações web, mobile e APIs
-- Arquitetura MVC, operações CRUD e integração com bancos de dados
-- Projeto de TCC **M.O.T.I.O.N.**, de tecnologia assistiva e comunicação alternativa
-- Interesse em oportunidades de estágio, desenvolvimento júnior e colaboração em projetos
+Tenho interesse em oportunidades de estágio, desenvolvimento júnior e colaboração em projetos que resolvam problemas reais com software simples, acessível e bem documentado.
 
 ## Tecnologias
 
-`Java` · `Python` · `JavaScript` · `TypeScript` · `C#` · `PHP` · `SQL` · `C++/Arduino` · `Node.js` · `React` · `Flask` · `Expo/React Native` · `Git/GitHub`
+`Python` · `JavaScript` · `TypeScript` · `Node.js` · `Java` · `PHP` · `SQL` · `C++/Arduino` · `React` · `Expo/React Native` · `Flask` · `Git/GitHub`
 
 ## Projetos em destaque
 
-| Projeto | Descrição |
+| Projeto | O que demonstra |
 | --- | --- |
-| [M.O.T.I.O.N.](https://github.com/Mateusmfmd/TCC) | Aplicativo de tecnologia assistiva com voz sintetizada e botão físico |
-| [Python Flask](https://github.com/Mateusmfmd/pw3-python-flask) | Estudos progressivos de Flask, MVC, banco de dados e CRUD |
-| [Consumo de API](https://github.com/Mateusmfmd/PW3-atividade-consumo-api) | Catálogo de animais com busca, filtros, comparação, favoritos e exportação CSV |
-| [Aplicações mobile](https://github.com/Mateusmfmd/Mobile) | Coleção de projetos com formulários, mapas, banco de dados e upload |
-| [Demonstração web](https://mateusmfmd.github.io/web_tcc/motion-web-logo-header.html) | Página demonstrativa do projeto M.O.T.I.O.N. |
+| [M.O.T.I.O.N.](https://github.com/Mateusmfmd/TCC) | Tecnologia assistiva, React Native, PHP, MySQL, Arduino e comunicação por voz |
+| [API de agendamento](https://github.com/Mateusmfmd/api-agendamento) | Node.js + TypeScript, API REST, validação e regra de conflito de horários |
+| [Coleta de campo offline](https://github.com/Mateusmfmd/coleta-campo-offline) | Expo/React Native, GPS opcional, armazenamento offline e GeoJSON |
+| [Monitor ambiental IoT](https://github.com/Mateusmfmd/monitor-ambiental-iot) | Arduino, protocolo serial, Node.js e painel web |
+| [Verificador de contraste WCAG](https://github.com/Mateusmfmd/verificador-contraste-wcag) | TypeScript, testes e acessibilidade baseada na WCAG 2.2 |
+| [Organizador de arquivos CLI](https://github.com/Mateusmfmd/organizador-arquivos-cli) | Python, automação segura, `--dry-run`, logs e tratamento de erros |
+| [Análise de dados urbanos](https://github.com/Mateusmfmd/analise-dados-urbanos) | Python, dados, gráficos SVG e relatório reproduzível |
+| [Monitor de disponibilidade](https://github.com/Mateusmfmd/monitor-disponibilidade-sites) | Python, SQLite, retries, histórico e alertas opcionais |
+| [Biblioteca em Java](https://github.com/Mateusmfmd/api-emprestimos-biblioteca) | Regras de domínio para empréstimo, reserva, devolução e multa |
+| [Botão Arduino acessível](https://github.com/Mateusmfmd/arduino-botao-acessivel) | Hardware assistivo, debounce, protocolo serial e CI |
 
-## Como usar os recursos do GitHub
+## Outros projetos
 
-```bash
-# Clonar um repositório
-gh repo clone Mateusmfmd/NOME_DO_REPOSITORIO
+- [Python Flask](https://github.com/Mateusmfmd/pw3-python-flask)
+- [Consumo de API](https://github.com/Mateusmfmd/PW3-atividade-consumo-api)
+- [Aplicações mobile](https://github.com/Mateusmfmd/Mobile)
+- [Demonstração web do M.O.T.I.O.N.](https://github.com/Mateusmfmd/web_tcc)
 
-# Consultar repositórios, issues e pull requests
-gh repo list Mateusmfmd
-gh issue list --repo Mateusmfmd/NOME_DO_REPOSITORIO
-gh pr list --repo Mateusmfmd/NOME_DO_REPOSITORIO
-
-# Criar uma branch, enviar mudanças e abrir um pull request
-git switch -c docs/minha-melhoria
-git push -u origin docs/minha-melhoria
-gh pr create --fill
-```
-
-O conector GitHub pode ser usado para **listar repositórios**, **ler e atualizar arquivos**, **acompanhar issues**, **revisar pull requests** e **consultar os históricos de mudanças**. Para alterações maiores, prefira uma branch e um pull request; para documentação simples, um commit direto no branch padrão pode ser adequado.
-
-## Portfólio e contato
+## Contato
 
 - Portfólio: [eloquent-hummingbird-b5ab26.netlify.app](https://eloquent-hummingbird-b5ab26.netlify.app/)
 - GitHub: [@Mateusmfmd](https://github.com/Mateusmfmd)
