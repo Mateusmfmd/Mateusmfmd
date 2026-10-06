@@ -1,73 +1,48 @@
-# Olá, eu sou Mateus Florido Pena
+# Mateus Florido Pena
 
-Desenvolvedor de Sistemas com aproximadamente três anos de formação técnica e experiência prática em projetos web, mobile, APIs, bancos de dados e automação.
-
-Tenho interesse em transformar problemas em soluções funcionais, claras e fáceis de usar. Atualmente, estou construindo meu portfólio e aprimorando meus conhecimentos para atuar profissionalmente na área de desenvolvimento de software.
+Desenvolvedor de Sistemas com formação técnica e experiência prática em projetos web, mobile, APIs, bancos de dados e automação.
 
 ## Sobre mim
 
-- Técnico em Desenvolvimento de Sistemas
-- Desenvolvedor de projetos web, mobile e aplicações com banco de dados
-- Autor, em equipe, do TCC M.O.T.I.O.N., projeto de tecnologia assistiva e comunicação alternativa
-- Praticando desenvolvimento de sistemas, APIs e interfaces responsivas
-- Aberto a oportunidades de estágio, desenvolvedor júnior e projetos na área de tecnologia
+- Desenvolvimento de aplicações web, mobile e APIs
+- Arquitetura MVC, operações CRUD e integração com bancos de dados
+- Projeto de TCC **M.O.T.I.O.N.**, de tecnologia assistiva e comunicação alternativa
+- Interesse em oportunidades de estágio, desenvolvimento júnior e colaboração em projetos
 
-## Tecnologias e conhecimentos
+## Tecnologias
 
-### Linguagens
-
-- Java
-- Python
-- JavaScript
-- TypeScript
-- C#
-- PHP
-- SQL
-- C++ com Arduino
-
-### Frameworks e ferramentas
-
-- Node.js
-- React
-- Flask
-- Desenvolvimento de aplicações mobile
-- Git e GitHub
-- Bancos de dados e operações CRUD
-- Consumo e criação de APIs
+`Java` · `Python` · `JavaScript` · `TypeScript` · `C#` · `PHP` · `SQL` · `C++/Arduino` · `Node.js` · `React` · `Flask` · `Expo/React Native` · `Git/GitHub`
 
 ## Projetos em destaque
 
-### M.O.T.I.O.N. — TCC
+| Projeto | Descrição |
+| --- | --- |
+| [M.O.T.I.O.N.](https://github.com/Mateusmfmd/TCC) | Aplicativo de tecnologia assistiva com voz sintetizada e botão físico |
+| [Python Flask](https://github.com/Mateusmfmd/pw3-python-flask) | Estudos progressivos de Flask, MVC, banco de dados e CRUD |
+| [Consumo de API](https://github.com/Mateusmfmd/PW3-atividade-consumo-api) | Catálogo de animais com busca, filtros, comparação, favoritos e exportação CSV |
+| [Aplicações mobile](https://github.com/Mateusmfmd/Mobile) | Coleção de projetos com formulários, mapas, banco de dados e upload |
+| [Demonstração web](https://mateusmfmd.github.io/web_tcc/motion-web-logo-header.html) | Página demonstrativa do projeto M.O.T.I.O.N. |
 
-Projeto de tecnologia assistiva e comunicação alternativa para ampliar a autonomia de crianças e jovens com dificuldade de fala. A solução reúne aplicativo de comunicação, voz sintetizada e botão físico programável.
+## Como usar os recursos do GitHub
 
-- [Repositório do TCC](https://github.com/Mateusmfmd/TCC)
-- [Demonstração do projeto](https://mateusmfmd.github.io/web_tcc/motion-web-logo-header.html)
-- [Portfólio](https://eloquent-hummingbird-b5ab26.netlify.app/)
+```bash
+# Clonar um repositório
+gh repo clone Mateusmfmd/NOME_DO_REPOSITORIO
 
-### Projetos com Python e Flask
+# Consultar repositórios, issues e pull requests
+gh repo list Mateusmfmd
+gh issue list --repo Mateusmfmd/NOME_DO_REPOSITORIO
+gh pr list --repo Mateusmfmd/NOME_DO_REPOSITORIO
 
-Estudos e aplicações envolvendo arquitetura MVC, templates, conexão com banco de dados e operações CRUD.
+# Criar uma branch, enviar mudanças e abrir um pull request
+git switch -c docs/minha-melhoria
+git push -u origin docs/minha-melhoria
+gh pr create --fill
+```
 
-- [Repositório Python Flask](https://github.com/Mateusmfmd/pw3-python-flask)
-- [Projeto de consumo de API](https://github.com/Mateusmfmd/PW3-atividade-consumo-api)
+O conector GitHub pode ser usado para **listar repositórios**, **ler e atualizar arquivos**, **acompanhar issues**, **revisar pull requests** e **consultar os históricos de mudanças**. Para alterações maiores, prefira uma branch e um pull request; para documentação simples, um commit direto no branch padrão pode ser adequado.
 
-### Aplicações mobile
+## Portfólio e contato
 
-Conjunto de projetos acadêmicos com formulários, banco de dados, upload de imagens, mapas e funcionalidades para dispositivos móveis.
-
-- [Repositório Mobile](https://github.com/Mateusmfmd/Mobile)
-
-## Portfólio
-
-Confira meus projetos e demonstrações:
-
-**https://eloquent-hummingbird-b5ab26.netlify.app/**
-
-## Contato
-
+- Portfólio: [eloquent-hummingbird-b5ab26.netlify.app](https://eloquent-hummingbird-b5ab26.netlify.app/)
 - GitHub: [@Mateusmfmd](https://github.com/Mateusmfmd)
-- Portfólio: [mateusfloridopena.netlify.app](https://eloquent-hummingbird-b5ab26.netlify.app/)
-- LinkedIn: em breve
-
-Estou aberto a conversar sobre oportunidades, projetos e colaborações em desenvolvimento de sistemas.
