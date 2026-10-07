@@ -6,7 +6,16 @@ Tenho interesse em oportunidades de estágio, desenvolvimento júnior e colabora
 
 ## Tecnologias
 
-`Python` · `JavaScript` · `TypeScript` · `Node.js` · `Java` · `PHP` · `SQL` · `C++/Arduino` · `React` · `Expo/React Native` · `Flask` · `Git/GitHub`
+`Python` · `JavaScript` · `TypeScript` · `Node.js` · `Java` · `PHP` · `SQL` · `C++/Arduino` · `React` · `React Native/Expo` · `Flask` · `Docker` · `Git/GitHub`
+
+## Competências demonstradas
+
+- **Mobile:** React Native e Expo com navegação, formulários, AsyncStorage, notificações, voz, mapas, geolocalização e upload de imagens.
+- **Backend e APIs:** Python/Flask com arquitetura MVC, CRUD, consumo de APIs externas e testes; PHP com API REST, autenticação por sessão e integração com MySQL; Node.js e TypeScript.
+- **Dados e persistência:** SQL/MySQL, SQLite, modelos relacionais, chaves estrangeiras, histórico, filtros e exportação CSV/GeoJSON.
+- **Infraestrutura:** Docker e Docker Compose para API PHP e banco MySQL, além de GitHub Actions para testes e validações.
+- **Hardware e integração:** Arduino, C++, sensores, botões, comunicação serial e ponte Python.
+- **Produto:** noções de SaaS, organização de funcionalidades por usuário, autenticação, estados offline, regras de negócio e evolução de MVPs.
 
 ## Projetos em destaque
 
