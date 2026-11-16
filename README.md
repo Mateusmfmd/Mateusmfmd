@@ -41,5 +41,6 @@ Tenho interesse em oportunidades de estágio, desenvolvimento júnior e colabora
 
 ## Contato
 
-- Portfólio: [eloquent-hummingbird-b5ab26.netlify.app](https://eloquent-hummingbird-b5ab26.netlify.app/)
+- Site: [Viora Tecnologia](https://viora-tecnologia.web.app/) — sites, lojas virtuais e sistemas sob medida
+- Instagram: [@viora_tecnologia](https://www.instagram.com/viora_tecnologia/)
 - GitHub: [@Mateusmfmd](https://github.com/Mateusmfmd)
